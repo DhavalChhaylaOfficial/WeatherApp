@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="humidity_label">Humidity: %1$d%%</string>
+    <string name="wind_speed_label">Wind Speed: %.1f m/s</string>
 </resources>
