@@ -22,15 +22,13 @@
       * It saves the last searched city name in the local storage of the device and display its weather information when the app is relaunched using SharedPreferances.
       * Saves the response data for offline use and displays it on application startup or in case of no internet connection.
       
-## Installation
-
+* **Installation**
 1. Clone this repository to your local machine.
 2. Open the project in your preferred development environment.
 3. Make sure you have the required dependencies installed. (List the dependencies and versions if applicable)
 4. Build and run the application on your device or emulator.
 
-## Usage
-
+* **Usage**
 1. On the main screen, you will see an input field where you can enter the name of the city for which you want to see the weather information.
 2. After entering the city name, press the enter key or tap the search button.
 3. While the application is making the network request to fetch the weather data, a loading indicator will be displayed.
@@ -39,16 +37,11 @@
 6. When the app is relaunched, it will display the weather information for the last searched city.
 7. To search for a new city, simply enter the name in the input field and follow the same steps as mentioned above.
 
-## Dependencies
-
-This application uses the following dependencies:
-
+* **Dependencies**
 - [OpenWeatherMap API](http://openweathermap.org/API) : Provides weather data for the application.
 - Volley library: Used for making HTTP requests to the OpenWeatherMap API.
 
-Make sure to include these dependencies in your project before running the application.
-
-## Contributing
+* **Contributing**
   * Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.   
   
 
